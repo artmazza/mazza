@@ -17,6 +17,5 @@ public class Test_file{
 	for(int i: arr){
 		System.out.println(i);
 	}
-	
   }
 }
