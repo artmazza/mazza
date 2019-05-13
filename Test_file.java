@@ -9,9 +9,13 @@ public class Test_file{
         num = input.nextInt();
 	int arr[] = new int[num];
 	
+	System.out.println("Enter numbers to add to array");
 	for(int i=0; i<arr.length; i++){
-		System.out.println("Enter numbers to add to array");
 		arr[i] = input.nextInt();
+	}
+
+	for(int i: arr){
+		System.out.println(i);
 	}
 	
   }
