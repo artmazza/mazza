@@ -2,7 +2,9 @@ import java.util.Scanner;
 
 public class Test_file{
   public static void main(String[] args){
-    	Scanner input = new Scanner(System.in);
+    	//Creates an array of size specified by the user, then asks for a list of elements to add to the array
+	  
+	Scanner input = new Scanner(System.in);
 	
 	int num = 0;
 	System.out.println("Please enter an array length");
