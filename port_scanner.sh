@@ -2,6 +2,7 @@
 #Author: Art Mazza
 #Last Updated: 21/05/2019
 
+
 #Defining the variables
 
 host=$1
